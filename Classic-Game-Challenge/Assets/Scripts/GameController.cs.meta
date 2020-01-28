@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ebf16b8cd292eb84f90e336bfecf55eb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - asteroid: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - livesText: {instanceID: 0}
+  - waveText: {instanceID: 0}
+  - hiscoreText: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  - nextLevelText: {instanceID: 0}
+  - creditsText: {instanceID: 0}
+  - restartLevelText: {instanceID: 0}
+  - winGameText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
